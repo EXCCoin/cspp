@@ -51,10 +51,10 @@ import (
 	"math/big"
 	"strconv"
 
-	"decred.org/cspp/v2/dcnet"
-	"decred.org/cspp/v2/x25519"
+	"github.com/EXCCoin/cspp/v2/dcnet"
+	"github.com/EXCCoin/cspp/v2/x25519"
 	"github.com/companyzero/sntrup4591761"
-	"github.com/decred/dcrd/crypto/blake256"
+	"github.com/EXCCoin/exccd/crypto/blake256"
 	"golang.org/x/crypto/ed25519"
 )
 

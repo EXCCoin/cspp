@@ -20,9 +20,9 @@ import (
 	"sync"
 	"time"
 
-	"decred.org/cspp/v2"
-	"decred.org/cspp/v2/coinjoin"
-	"decred.org/cspp/v2/server"
+	"github.com/EXCCoin/cspp/v2"
+	"github.com/EXCCoin/cspp/v2/coinjoin"
+	"github.com/EXCCoin/cspp/v2/server"
 	"github.com/jrick/wsrpc/v2"
 	"golang.org/x/crypto/acme"
 	"golang.org/x/crypto/acme/autocert"

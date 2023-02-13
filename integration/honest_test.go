@@ -16,11 +16,11 @@ import (
 	"testing"
 	"time"
 
-	"decred.org/cspp/v2"
-	"decred.org/cspp/v2/coinjoin"
-	"decred.org/cspp/v2/internal/nettest"
-	"decred.org/cspp/v2/server"
-	"github.com/decred/dcrd/wire"
+	"github.com/EXCCoin/cspp/v2"
+	"github.com/EXCCoin/cspp/v2/coinjoin"
+	"github.com/EXCCoin/cspp/v2/internal/nettest"
+	"github.com/EXCCoin/cspp/v2/server"
+	"github.com/EXCCoin/exccd/wire"
 	"golang.org/x/crypto/ed25519"
 )
 

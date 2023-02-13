@@ -1,4 +1,4 @@
-module decred.org/cspp/v2
+module github.com/EXCCoin/cspp/v2
 
 go 1.16
 

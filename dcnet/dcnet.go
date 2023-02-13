@@ -8,10 +8,10 @@ import (
 	"math/big"
 	"strings"
 
-	"decred.org/cspp/v2/chacha20prng"
-	"decred.org/cspp/v2/x25519"
+	"github.com/EXCCoin/cspp/v2/chacha20prng"
+	"github.com/EXCCoin/cspp/v2/x25519"
 	"github.com/companyzero/sntrup4591761"
-	"github.com/decred/dcrd/crypto/blake256"
+	"github.com/EXCCoin/exccd/crypto/blake256"
 )
 
 // SRMixPads creates a vector of exponential DC-net pads from a vector of
